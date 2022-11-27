@@ -1,0 +1,14 @@
+name: SampleSizeDetermination_BFmed
+title: SampleSizeDetermination_BFmed
+username:
+account: xiaol
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7042819
+bundleId: 6347105
+url: https://xiaol.shinyapps.io/SampleSizeDetermination_BFmed/
+when: 1664369753.04551
+lastSyncTime: 1664369753.04553
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: bfmedpower_example.R|bfmedpower_example.RData|fun_powercurve.R|MediationPowerAnalysis.pdf|server2019.R

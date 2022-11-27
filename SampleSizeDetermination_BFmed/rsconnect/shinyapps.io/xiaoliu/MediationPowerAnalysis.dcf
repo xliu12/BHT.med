@@ -1,0 +1,12 @@
+name: MediationPowerAnalysis
+title: MediationPowerAnalysis
+username:
+account: xiaoliu
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 721245
+bundleId: 5102146
+url: https://xiaoliu.shinyapps.io/MediationPowerAnalysis/
+when: 1633350243.17863
+asMultiple: FALSE
+asStatic: FALSE
